@@ -49,6 +49,6 @@ class Dockward < Formula
 
   test do
     output = shell_output(bin/"dockward -v")
-    assert_match "dockward version 0.0.2", output
+    assert_match "dockward version 0.0.3", output
   end
 end
