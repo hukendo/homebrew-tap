@@ -1,4 +1,4 @@
-class Elixir < Formula
+class ElixirAT110 < Formula
   desc "Functional metaprogramming aware language built on Erlang VM"
   homepage "https://elixir-lang.org/"
   url "https://github.com/elixir-lang/elixir/archive/v1.10.1.tar.gz"
